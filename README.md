@@ -38,5 +38,7 @@ The data analysis was divided into sales performance analysis, product analysis,
 - Across all 10 City, Total Sales ranged from 43,054.34 to 256,368.16.
 
 ## CONCLUSION
-In conclusion, this project utilized data analytics techniques to analyze the performance of a global superstore. Through the interactive dashboard and data insights, stakeholders can make informed decisions and take necessary actions to achieve their strategic objectives. By leveraging the power of data, businesses can drive growth, improve profitability, and stay competitive in today's dynamic market. 
+In conclusion, this project utilized data analytics techniques to analyze the performance of a global superstore. Through the interactive dashboard and data insights, stakeholders can make informed decisions and take necessary actions to achieve their strategic objectives. By leveraging the power of data, businesses can drive growth, improve profitability, and stay competitive in today's dynamic market.
+
+Thanks for reading.
     
